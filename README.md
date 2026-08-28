@@ -1,10 +1,10 @@
 # Meu Primeiro Projeto
 
 ## Nome
-Seu nome completo
+João Pedro Soares Fernandes
 
 ## Turma
-Sua turma
+2° TDS
 
 ## Disciplina
 Programação Front-End I
