@@ -1,0 +1,33 @@
+/* Estilos Gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #24292e;
+    color: white;
+    padding: 2rem;
+}
+
+/* Conteúdo Principal */
+main {
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Rodapé */
+footer {
+    background-color: #ddd;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
